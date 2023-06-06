@@ -32,11 +32,11 @@ Clicking on a movie within Movie Box reveals detailed information about the sele
 
 Take a sneak peek at Movie Box with these screenshots from the website:
 
-![Screenshot 1](https://github.com/dilshad-khalil/movieBox/blob/main/screenshots/1.png)
-![Screenshot 2](https://github.com/dilshad-khalil/movieBox/blob/main/screenshots/2.png)
-![Screenshot 3](https://github.com/dilshad-khalil/movieBox/blob/main/screenshots/3.png)
-![Screenshot 4](https://github.com/dilshad-khalil/movieBox/blob/main/screenshots/4.png)
-![Screenshot 5](https://github.com/dilshad-khalil/movieBox/blob/main/screenshots/5.png)
+![Screenshot 1](https://github.com/dilshad-khalil/movieBox/screenshots/1.png)
+![Screenshot 2](https://github.com/dilshad-khalil/movieBox/screenshots/2.png)
+![Screenshot 3](https://github.com/dilshad-khalil/movieBox/screenshots/3.png)
+![Screenshot 4](https://github.com/dilshad-khalil/movieBox/screenshots/4.png)
+![Screenshot 5](https://github.com/dilshad-khalil/movieBox/screenshots/5.png)
 
 ## Demo
 
